@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Marushy/inspire-quotes/static/css/main.9c47f72f.chunk.css",
-    "main.js": "/Marushy/inspire-quotes/static/js/main.5eb5cc30.chunk.js",
-    "main.js.map": "/Marushy/inspire-quotes/static/js/main.5eb5cc30.chunk.js.map",
-    "runtime-main.js": "/Marushy/inspire-quotes/static/js/runtime-main.11970dfc.js",
-    "runtime-main.js.map": "/Marushy/inspire-quotes/static/js/runtime-main.11970dfc.js.map",
-    "static/js/2.8f9e5f29.chunk.js": "/Marushy/inspire-quotes/static/js/2.8f9e5f29.chunk.js",
-    "static/js/2.8f9e5f29.chunk.js.map": "/Marushy/inspire-quotes/static/js/2.8f9e5f29.chunk.js.map",
-    "static/js/3.42cb8244.chunk.js": "/Marushy/inspire-quotes/static/js/3.42cb8244.chunk.js",
-    "static/js/3.42cb8244.chunk.js.map": "/Marushy/inspire-quotes/static/js/3.42cb8244.chunk.js.map",
-    "index.html": "/Marushy/inspire-quotes/index.html",
-    "static/css/main.9c47f72f.chunk.css.map": "/Marushy/inspire-quotes/static/css/main.9c47f72f.chunk.css.map",
-    "static/js/2.8f9e5f29.chunk.js.LICENSE.txt": "/Marushy/inspire-quotes/static/js/2.8f9e5f29.chunk.js.LICENSE.txt",
-    "static/media/copy.a7ea3515.svg": "/Marushy/inspire-quotes/static/media/copy.a7ea3515.svg",
-    "static/media/App.css": "/Marushy/inspire-quotes/static/media/mount.088ad664.jpg",
-    "static/media/quotation-marks-in-speech-bubble.210c36fe.svg": "/Marushy/inspire-quotes/static/media/quotation-marks-in-speech-bubble.210c36fe.svg"
+    "main.css": "/inspire-quotes/static/css/main.7874f6cf.chunk.css",
+    "main.js": "/inspire-quotes/static/js/main.5eb5cc30.chunk.js",
+    "main.js.map": "/inspire-quotes/static/js/main.5eb5cc30.chunk.js.map",
+    "runtime-main.js": "/inspire-quotes/static/js/runtime-main.88b493a8.js",
+    "runtime-main.js.map": "/inspire-quotes/static/js/runtime-main.88b493a8.js.map",
+    "static/js/2.8f9e5f29.chunk.js": "/inspire-quotes/static/js/2.8f9e5f29.chunk.js",
+    "static/js/2.8f9e5f29.chunk.js.map": "/inspire-quotes/static/js/2.8f9e5f29.chunk.js.map",
+    "static/js/3.42cb8244.chunk.js": "/inspire-quotes/static/js/3.42cb8244.chunk.js",
+    "static/js/3.42cb8244.chunk.js.map": "/inspire-quotes/static/js/3.42cb8244.chunk.js.map",
+    "index.html": "/inspire-quotes/index.html",
+    "static/css/main.7874f6cf.chunk.css.map": "/inspire-quotes/static/css/main.7874f6cf.chunk.css.map",
+    "static/js/2.8f9e5f29.chunk.js.LICENSE.txt": "/inspire-quotes/static/js/2.8f9e5f29.chunk.js.LICENSE.txt",
+    "static/media/copy.a7ea3515.svg": "/inspire-quotes/static/media/copy.a7ea3515.svg",
+    "static/media/App.css": "/inspire-quotes/static/media/mount.088ad664.jpg",
+    "static/media/quotation-marks-in-speech-bubble.210c36fe.svg": "/inspire-quotes/static/media/quotation-marks-in-speech-bubble.210c36fe.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.11970dfc.js",
+    "static/js/runtime-main.88b493a8.js",
     "static/js/2.8f9e5f29.chunk.js",
-    "static/css/main.9c47f72f.chunk.css",
+    "static/css/main.7874f6cf.chunk.css",
     "static/js/main.5eb5cc30.chunk.js"
   ]
 }
