@@ -39,7 +39,7 @@ h2 {
 
 @media (max-width: 760px) {
   .App {
-    height: 100vh;
+    height: 100%;
   }
   .card {
     margin: 0 10%;
